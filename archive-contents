@@ -59,4 +59,5 @@
  (window-numbering . [(20160809 1110) nil "Numbered window shortcuts" tar])
  (with-editor . [(20180414 757) ((emacs (24 4)) (async (1 9))) "Use the Emacsclient as $EDITOR" tar])
  (yasnippet . [(0 13 0) ((cl-lib (0 5))) "Yet another snippet extension for Emacs." tar])
+ (gxref . [(20170411 1053) ((emacs (25))) "xref backend using GNU Global." tar])
 )
